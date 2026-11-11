@@ -1,0 +1,52 @@
+
+CUSTOMER FEEDBACK ANALYSIS REPORT
+=================================
+
+Total customer reviews: 10
+
+1. SENTIMENT SUMMARY
+--------------------
+sentiment
+Negative    5
+Positive    4
+Neutral     1
+
+2. SENTIMENT PERCENTAGES
+------------------------
+sentiment
+Negative    50.0
+Positive    40.0
+Neutral     10.0
+
+3. FEEDBACK CATEGORY SUMMARY
+----------------------------
+category
+Product     3
+Delivery    3
+Payment     2
+Support     2
+
+4. NEGATIVE FEEDBACK BY CATEGORY
+--------------------------------
+category
+Delivery    2
+Payment     1
+Product     1
+Support     1
+
+5. NEGATIVE FEEDBACK PERCENTAGES
+--------------------------------
+category
+Delivery    66.67
+Payment     50.00
+Product     33.33
+Support     50.00
+
+6. SENTIMENT DISTRIBUTION BY CATEGORY
+-------------------------------------
+sentiment  Negative  Neutral  Positive
+category                              
+Delivery          2        0         1
+Payment           1        0         1
+Product           1        1         1
+Support           1        0         1

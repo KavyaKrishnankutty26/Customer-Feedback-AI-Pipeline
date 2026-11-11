@@ -1,0 +1,11 @@
+review_id,customer_review,sentiment
+101,The product quality is excellent. I am very happy with my purchase.,Positive
+102,My delivery was delayed by five days. Very disappointing service.,Negative
+103,The payment was deducted twice from my account.,Negative
+104,Customer support was very helpful and resolved my issue quickly.,Positive
+105,The product stopped working after two days. Very poor quality.,Negative
+106,Delivery was fast and the packaging was excellent.,Positive
+107,I am unable to get a refund. Nobody from support is responding.,Negative
+108,"The product is good, but the price is too high.",Neutral
+109,Payment was smooth and the checkout process was easy.,Positive
+110,I received the wrong item and the replacement process is taking too long.,Negative
