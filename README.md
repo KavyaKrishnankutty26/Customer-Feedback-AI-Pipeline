@@ -1,6 +1,6 @@
 # Intelligent Customer Feedback Processing Pipeline
 
-An end-to-end AI-powered data pipeline that processes customer reviews, performs sentiment analysis and feedback categorization using Google Gemini, and generates business insights and visualizations.
+An end to end AI-powered data pipeline that processes customer reviews, performs sentiment analysis and feedback categorization using Google Gemini, and generates business insights and visualizations.
 
 ## Project Overview
 
@@ -68,7 +68,7 @@ Customer-Feedback-AI-Pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/KavyaKrishnankutty26/Customer-Feedback-AI-Pipeline.git>
 ```
 
 ### 2. Navigate to the project directory
