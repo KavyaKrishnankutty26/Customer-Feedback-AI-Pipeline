@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from google import genai
 import pandas as pd
 import json
+from gemini_utils import get_gemini_response
 
 # Load environment variables from .env
 load_dotenv()
@@ -56,11 +57,9 @@ Each item must contain:
 Return only valid JSON without markdown formatting.
 """
 
+
 # Send all reviews to Gemini in one request
-response = client.models.generate_content(
-    model="gemini-3.5-flash-lite",
-    contents=prompt
-)
+response = get_gemini_response(client, prompt)
 
 # Display Gemini's response
 print("\nGemini batch sentiment results:")
